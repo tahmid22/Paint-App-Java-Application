@@ -1,0 +1,63 @@
+# Fill in, commit and push each day.
+# Group Member: Md Tahmid Mostafa
+
+Nov 25, 2016
+	Yesterday : Waiting for assignment 3
+	Today     : Waiting for assignment 3
+	Obstacles : N/A
+
+Nov 26, 2016
+	Yesterday : Waited for assignment 3
+	Today     :	Reading over the assignement 3 going through the starter code
+	Obstacles : N/A
+	
+Nov 27, 2016
+	Yesterday : Read over the assignment 3 and went through the starter code
+	Today     : Working on the q1 from floating point
+	Obstacles : Faced problem understanding how JAVA understands floating point and represents it
+	
+Nov 28, 2016
+	Yesterday :	Worked on Q1 from floating point
+	Today     : Working on file save and load user stories
+	Obstacles : faced problem using buffered reading, however the issue is resolved after some research 
+	
+Nov 29, 2016
+	Yesterday :	Finished coding save and parsing and commented out. 
+	Today     :	Further working on q1 and q2.
+	Obstacles : q2, struggling to figure out a efficient way to solve this question.
+
+Nov 30, 2016
+	Yesterday : Worked on q1 and q2
+	Today     : Finished q2 with my partner Nikolas
+	Obstacles : None
+
+Dec 1, 2016
+	Yesterday :	Found solution to question 2.
+	Today     : Taking a break from 207 to catch up with other courses/
+	Obstacles : None
+	
+Dec 2, 2016
+	Yesterday : Took a break to catch up with other courses.
+	Today     :	Fixed regex for color, and some small issus
+	Obstacles : None
+
+Dec 3, 2016
+	Yesterday : Color regex is fixed
+	Today     : Fixing issues with finite state machine and made accepting state clearer. Simplifying the codes.
+	Obstacles : None.
+
+Dec 4, 2016
+	Yesterday : Fixed all issues with code.
+	Today     : Finalizing the assignment for submission.
+	Obstacles : None
+	
+Dec 5, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 6, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	

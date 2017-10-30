@@ -1,0 +1,19 @@
+# Please leave your team members contact information here
+
+<<<<<<< HEAD
+Member 1:
+Name:
+Email:
+
+Member 2:
+Name:
+Email:
+=======
+Member 1: komonenn
+Name: Nikolas Komonen
+Email: nikolas.komonen@mail.utoronto.ca
+
+Member 2: mostaf34
+Name: Md Tahmid Mostafa
+Email: tahmid.mostafa@mail.utoronto.ca
+>>>>>>> branch 'master' of https://cslinux.utm.utoronto.ca/git/repo_a3_dedication.git

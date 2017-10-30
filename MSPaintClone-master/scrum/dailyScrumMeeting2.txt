@@ -1,0 +1,64 @@
+# Fill in, commit and push each day.
+# Group Member: Nikolas Komonen (komonenn)
+
+Nov 25, 2016
+	Yesterday :Did nothing
+	Today     :Did nothing
+	Obstacles :
+
+Nov 26, 2016
+	Yesterday :Did nothing
+	Today     :Did Nothing
+	Obstacles :
+	
+Nov 27, 2016
+	Yesterday :Did nothing
+	Today     :Went over floating point numbers and attempted to solve the floating point questions
+	Obstacles :Having to make sure our knowledge of floating point numbers was solid
+	
+Nov 28, 2016
+	Yesterday :Floating Point Question
+	Today     : Finished the load and save
+	Obstacles : Had to learn how to use BufferedReader/Writer and how files worked. Had to find errors
+				that were causing the FSM to have issues. I forgot the put in break; .
+	
+Nov 29, 2016
+	Yesterday : Finished Assignment
+	Today	  : Went over floating point question and explained q1
+	Obstacles : A lot of thinking
+
+Nov 30, 2016
+	Yesterday : Went over floating point question
+	Today     :	Took a break
+	Obstacles :
+
+Dec 1, 2016
+	Yesterday : Took a break
+	Today     : worked on q1 and q2
+	Obstacles : figuring out how to do it
+	
+Dec 2, 2016
+	Yesterday : worked on q1 and q2
+	Today     : Took a break 
+	Obstacles :
+
+Dec 3, 2016
+	Yesterday : Took a break
+	Today     : Edited and finalized the code, added junit test cases for load. We're done.
+	Obstacles :
+
+Dec 4, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 5, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 6, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
